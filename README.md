@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Data Science and Deep Learning
+- 👯 I’m looking to collaborate on AI and Django Projects
+- 💬 Ask me about Python
+- 😄 Pronouns: He/Him
+
 <!--
 **thelimeskies/thelimeskies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
